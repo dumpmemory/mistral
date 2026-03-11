@@ -130,7 +130,7 @@ this demo!
 The Propulsion team has trained 5 GPT-2 Medium models and 5 GPT-2 Small models on the [OpenWebText corpus](https://huggingface.co/datasets/openwebtext),
 as found in [🤗  datasets](https://huggingface.co/datasets).
 
-Each model has 600 checkpoints, subject to the following checkpoint schedule:
+Each GPT-2 Small model has 600 checkpoints, subject to the following checkpoint schedule:
 
 - Every 10 Steps, for the first 0 - 100 Steps.
 - Every 50 Steps, from 100 - 2000 Steps.

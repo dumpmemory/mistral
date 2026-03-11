@@ -8,7 +8,7 @@ The Mistral team has trained 5 GPT-2 Medium models and 5 GPT-2 Small models on t
 
 Each model is available on the `Hugging Face Hub <https://huggingface.co/stanford-crfm/>`_ and can be accessed via Git LFS.
 
-Checkpoints are branches of each repo for each model. For instance, here is how to get the 300k step checkpoint for battlestar: ::
+Checkpoints are branches of each repo for each GPT-2 Small model. For instance, here is how to get the 300k step checkpoint for battlestar: ::
 
     # Make sure you have git-lfs installed
     # (https://git-lfs.github.com)
